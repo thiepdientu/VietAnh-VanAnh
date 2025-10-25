@@ -758,7 +758,7 @@ body {
 }
 .thankyou-title {
     font-size: 64px;
-    font-family: var(--script-font);
+   
     line-height: 1.6;
 }
 .thankyou-des {
